@@ -3,7 +3,8 @@
 Podemos ver la pagina tal cual poniendo la IP que nos dan, podemos ver que hay una dirección de correo, después de investigar por código fuente, intentar sacar directorios ocultos con **[[GOBUSTER]]** sin éxito.
 
 
-![[Pasted image 20240606183734.png]]
+![image](https://github.com/user-attachments/assets/530d9197-ea30-49b6-bcd7-aedf8d57593b)
+
 
 Después de ver un correo en la pagina web (amarillo), cogeremos e iremos a la ruta`` /etc/hosts`` para hacer redireccionamiento DNS, por si nos devuelve otra información.
 
